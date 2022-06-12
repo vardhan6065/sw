@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+.contact{
+  position: sticky;
+  bottom: 10px;
+  left: 2px;
+  /* background-color: #fbfafa; */
+  padding: 10px;
+  /* border: 1px solid black; */
+  border-radius: 3px;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.contact:hover{
+  cursor: pointer;
+  background-color: #e2e0e0;
+}
