@@ -1,0 +1,10 @@
+.images{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.image{
+    width: 50%;
+    height: auto;
+}

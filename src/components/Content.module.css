@@ -1,0 +1,48 @@
+.outercontainer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 50px 0px;
+    padding: 80px 0px;
+    /* border:  2px solid black; */
+    background-color: rgb(251, 250, 250);
+}
+
+.innercontainer{
+    display: flex;
+    width: 80%;
+    flex-direction: column;
+    /* justify-content: space-between; */
+    /* overflow-y: scroll; */
+    padding: 20px;
+    background-color: white;
+    text-align: center;
+}
+
+hr{
+    border: 0.3px solid rgb(47, 46, 46);
+    width: 90%;
+}
+
+/* .upper{
+    margin: 30px;
+} */
+
+.lower{
+margin: 30px;
+}
+
+.contact{
+
+}
+
+.stickers{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.sticker{
+    padding:2px;
+}
